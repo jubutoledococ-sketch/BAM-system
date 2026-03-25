@@ -1,0 +1,12 @@
+dl final_inventory
+extract final_inventory in htdocs
+xampp
+start
+start
+click admin
+check databases (final_inventory)
+import database
+choose file (inventory_db(2))
+import
+search: localhost/final_inventory/index.php
+login page
